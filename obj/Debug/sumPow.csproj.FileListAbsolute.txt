@@ -1,0 +1,6 @@
+c:\users\sevr1k\documents\visual studio 2015\Projects\sumPow\sumPow\bin\Debug\sumPow.exe.config
+c:\users\sevr1k\documents\visual studio 2015\Projects\sumPow\sumPow\bin\Debug\sumPow.exe
+c:\users\sevr1k\documents\visual studio 2015\Projects\sumPow\sumPow\bin\Debug\sumPow.pdb
+c:\users\sevr1k\documents\visual studio 2015\Projects\sumPow\sumPow\obj\Debug\sumPow.csprojResolveAssemblyReference.cache
+c:\users\sevr1k\documents\visual studio 2015\Projects\sumPow\sumPow\obj\Debug\sumPow.exe
+c:\users\sevr1k\documents\visual studio 2015\Projects\sumPow\sumPow\obj\Debug\sumPow.pdb
